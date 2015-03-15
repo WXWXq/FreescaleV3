@@ -1,0 +1,8 @@
+
+PWM
+PWM1-PWM4       PA4 5 6 7
+
+
+UART4
+TX PE24
+RX PE25

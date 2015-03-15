@@ -1,0 +1,12 @@
+.\objects\gpio.o: CH_Lib\src\gpio.c
+.\objects\gpio.o: .\CH_Lib\inc\gpio.h
+.\objects\gpio.o: .\CH_Lib\inc\common.h
+.\objects\gpio.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gpio.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\gpio.o: F:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\gpio.o: f:\Keil\ARM\PACK\Keil\Kinetis_K60_DFP\1.3.0\Device\Include\MK60D10.h
+.\objects\gpio.o: f:\Keil\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h
+.\objects\gpio.o: f:\Keil\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h
+.\objects\gpio.o: f:\Keil\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h
+.\objects\gpio.o: f:\Keil\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h
+.\objects\gpio.o: f:\Keil\ARM\PACK\Keil\Kinetis_K60_DFP\1.3.0\Device\Include\system_MK60D10.h

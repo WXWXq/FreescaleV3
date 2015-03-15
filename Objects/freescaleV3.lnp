@@ -1,0 +1,26 @@
+--cpu Cortex-M4
+".\objects\main.o"
+".\objects\outputdata.o"
+".\objects\wxwxdatasend.o"
+".\objects\angle.o"
+".\objects\led.o"
+".\objects\usart.o"
+".\objects\flash.o"
+".\objects\timer.o"
+".\objects\motor.o"
+".\objects\anglebase.o"
+".\objects\ccd.o"
+".\objects\delay.o"
+".\objects\sys.o"
+".\objects\adc.o"
+".\objects\common.o"
+".\objects\gpio.o"
+".\objects\systick.o"
+".\objects\uart.o"
+"f:\Keil\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Lib\ARM\arm_cortexM4l_math.lib"
+".\objects\startup_mk60d10.o"
+".\objects\system_mk60d10.o"
+--strict --scatter ".\Objects\freescaleV3.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\freescaleV3.map" -o .\Objects\freescaleV3.axf
